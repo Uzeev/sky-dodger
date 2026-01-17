@@ -1,9 +1,9 @@
 {
   "name": "Sky Adventure ✈️",
   "description": "A retro pixel-art dodging game built with React and canvas.",
-  "url": "https://sky-plane.vercel.app",
-  "icon": "https://sky-plane.vercel.app/icon.png",
-  "screenshots": ["https://sky-adventure.vercel.app/screenshot.png"],
+  "url": "https://sky-plane2.vercel.app",
+  "icon": "https://sky-plane2.vercel.app/icon.png",
+  "screenshots": ["https://sky-plane2.vercel.app/screenshot.png"],
   "tags": ["game", "arcade", "pixelart"],
   "version": "1.0.0"
 }
