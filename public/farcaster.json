@@ -1,9 +1,9 @@
 {
-  "name": "Sky Plane2 ✈️",
-  "description": "A retro pixel-art dodging game built with React and canvas.",
-  "url": "https://sky-plane2.vercel.app",
-  "icon": "https://sky-plane2.vercel.app/icon.png",
-  "screenshots": ["https://sky-plane2.vercel.app/screenshot.png"],
-  "tags": ["game", "arcade", "pixelart"],
+  "name": "Sky Explorer ✈️",
+  "description": "Explore the skies in a retro pixel-art adventure, dodging meteors and soaring through clouds.",
+  "url": "https://sky-explorer.vercel.app",
+  "icon": "https://sky-explorer.vercel.app/icon.png",
+  "screenshots": ["https://sky-explorer.vercel.app/screenshot.png"],
+  "tags": ["game", "arcade", "pixelart", "explorer"],
   "version": "1.0.0"
 }
