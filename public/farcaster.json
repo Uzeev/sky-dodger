@@ -1,0 +1,9 @@
+{
+  "name": "Sky Dodger ✈️",
+  "description": "A retro pixel-art dodging game built with React and canvas.",
+  "url": "https://sky-dodger-weld.vercel.app",
+  "icon": "https://sky-dodger-weld.vercel.app/icon.png",
+  "screenshots": ["https://sky-dodger-weld.vercel.app/screenshot.png"],
+  "tags": ["game", "arcade", "pixelart"],
+  "version": "1.0.0"
+}
