@@ -1,9 +1,0 @@
-{
-  "name": "Sky Explorer ✈️",
-  "description": "Explore the skies in a retro pixel-art adventure, dodging meteors and soaring through clouds.",
-  "url": "https://sky-explorer.vercel.app",
-  "icon": "https://sky-explorer.vercel.app/icon.png",
-  "screenshots": ["https://sky-explorer.vercel.app/screenshot.png"],
-  "tags": ["game", "arcade", "pixelart", "explorer"],
-  "version": "1.0.0"
-}
